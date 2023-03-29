@@ -1,0 +1,60 @@
+.container_register {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+    display: flex;
+}
+
+
+.container_register section {
+    font-size: 32px;
+    line-height: 44px;
+    width: 50%;
+    padding: 5%;
+}
+
+.container_register section h2 {
+    font-size: 32px;
+}
+
+.container_register section p {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.container_register form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container_register input {
+    color: #FFFFFF;
+    width: 275px;
+    height: 30px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ffffff85;
+}
+
+.container_register button {
+    margin-top: 10%;
+    color: #FFFFFF;
+}
+
+.infoCadaster p {
+    margin-top: 30px;
+}
+
+#termos {
+    line-height: 20px;
+    width: 50%;
+}
+
+#Login {
+    text-decoration: none;
+    color: #23DD7A;
+}
+

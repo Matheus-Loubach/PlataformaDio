@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Matheus",
+      "email": "matheus.loubach@gmail.com",
+      "password": "123456",
+      "telephone": 123456789
+    },
+    {
+      "password": "1234567",
+      "telephone": 9999999,
+      "email": "admin@gmail.com",
+      "name": "admin",
+      "id": 2
+    },
+    {
+      "password": "1234567",
+      "telephone": 9999999999,
+      "email": "teste10@gmail.com",
+      "name": "teste10",
+      "id": 3
+    }
+  ]
+}

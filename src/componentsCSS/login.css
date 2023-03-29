@@ -1,0 +1,67 @@
+.container_login {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    color: #FFFFFF;
+    display: flex;
+}
+
+
+.container_login section {
+    font-size: 32px;
+    line-height: 44px;
+    width: 50%;
+    padding: 5%;
+}
+
+.container_login section h2 {
+    font-size: 32px;
+}
+
+.container_login section p {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.container_login form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.container_login input {
+    width: 275px;
+    height: 30px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #ffffff85;
+    color: #FFFFFF;
+}
+
+.container_login button{
+    margin-top: 10%;
+}
+
+.info_esqCriar{
+    display: flex;
+}
+
+.info_esqCriar p{
+    margin: 50px 57px 0 0;
+}
+
+#senha{
+    color: #E5E044;
+}
+
+#criar{
+ color: #23DD7A;
+ text-decoration: none;
+}
+
+
+.icon{
+    padding-top: 30px;
+}
